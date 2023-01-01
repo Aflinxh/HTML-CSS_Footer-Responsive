@@ -9,6 +9,8 @@ This is what will you get in this code...
 
 Footer Responsive, features:
 
+[footer.webm](https://user-images.githubusercontent.com/106858846/210171759-d8296904-7552-45e5-92d4-b29ec235dec1.webm)
+
 - Responsive Footers
 - No limit of how many menu: Title and List Item can be added, recommendation: 3-5 title, 3-5 items each title
 - Auto wrapping menus according to the number of menus
